@@ -5,8 +5,8 @@ import Sort from './Tasks/Sort/Sort'
 function App() {
   return (
     <>
-      <Filter/>
-      <Sort></Sort>
+      {/* <Filter/> */}
+      {/* <Sort></Sort> */}
       <Localstoarage></Localstoarage>
     </>
   )
